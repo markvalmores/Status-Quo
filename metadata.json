@@ -1,0 +1,6 @@
+{
+  "name": "Status Quo",
+  "description": "The celebrity and superhero social status game where Hollywood icons react, comment, share, and follow your posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
